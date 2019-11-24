@@ -23,5 +23,5 @@ fn coin_sums(goal: u32) -> u32 {
 }
 
 fn main() {
-	println!("{}", coin_sums(200));
+    println!("{}", coin_sums(200));
 }
